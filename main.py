@@ -1,6 +1,6 @@
 """
     This file regroups different functions to be used to format and process
-    the data of goo.gl/4JVbEk experiment.
+    the data of goo.gl/4JVvEk experiment.
 """
 
 from dataclasses import  dataclass
