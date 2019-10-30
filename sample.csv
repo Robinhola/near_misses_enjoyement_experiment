@@ -1,0 +1,8 @@
+skill
+Date:04062013144323
+IP address: 69.216.67.223
+Manoj,25,male
+,Ships,Aimed For,Landed At,Result,Latency,Moves,Happinness,WantsMore
+trial,6:1|6:2|1:6,1:04,2:05,nearMiss,23.391,5,1,71
+trial,5:1|5:2|1:5,1:04,2:05,fullMiss,23.391,5,1,63
+trial,5:1|5:2|1:5,1:04,2:05,hit,23.391,5,99,71
